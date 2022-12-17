@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img max-width="300" src="https://github.com/ThePortugueseMan/NetworkProject/blob/main/Docs/Ring.png">
+  <img max-width="300" src="https://github.com/ThePortugueseMan/El_Ringo_ANetworkProject/blob/main/Docs/Ring.png">
 </p>
 
 
