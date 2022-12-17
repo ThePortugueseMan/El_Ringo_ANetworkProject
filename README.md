@@ -2,13 +2,18 @@
 
 
 
+<p align="center">
+  <img max-width="300" src="https://github.com/ThePortugueseMan/NetworkProject/blob/main/Docs/Ring.png">
+</p>
+
+
 This project simulates the creation, and interaction of a ring of nodes.
 
-Each node has a key value, and it responsible for all the key values between itself and the next node. For example, if there are 2 nodes one with key 10 and the next one with key 20, then the objects with key 10-19 are responsability of node with key 10.
+Each node (red square) has a key value, and it's responsible for all the key values between itself and the next node (grey circles). For example, if there are 2 nodes one with key 10 and the next one with key 20, then the objects with key 10-19 are responsability of node with key 10.
 
-Each nodes comunicates to it's neighbour via TCP.
+Each nodes comunicates to it's neighbour via TCP (line).
 
-A node can be connected to another node through a shortcut, using an UDP connection. 
+A node can be connected to another node through a shortcut, using an UDP connection (dotted line). 
 
 
 
