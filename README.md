@@ -13,7 +13,7 @@ Each node (red square) has a key value, and it's responsible for all the key val
 
 Each nodes comunicates to it's neighbour via TCP (line).
 
-A node can be connected to another node through a shortcut, using an UDP connection (dotted line). 
+A node can be connected to any other node through a shortcut, using an UDP connection (dotted line). 
 
 
 
